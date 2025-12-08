@@ -1,4 +1,4 @@
-#Wrete into files
+#Write into files
 path = "Module_1/W2/Assets/"
 file = open(path+"Output.txt ",'w')
 

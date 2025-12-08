@@ -1,0 +1,14 @@
+Line 6: 2024-01-15 08:34:20 ERROR - Database query failed: Connection timeout
+Line 7: 2024-01-15 08:34:22 ERROR - Failed to fetch user data from database
+Line 12: 2024-01-15 08:38:45 ERROR - Payment processing failed: Insufficient funds
+Line 18: 2024-01-15 08:43:30 ERROR - External API call failed: 503 Service Unavailable
+Line 22: 2024-01-15 08:47:15 ERROR - Backup failed: Permission denied on /backup directory
+Line 26: 2024-01-15 08:51:05 ERROR - Email notification service unavailable
+Line 30: 2024-01-15 08:55:30 ERROR - Report export failed: File system read-only
+Line 35: 2024-01-15 09:00:30 ERROR - Optimization failed: Deadlock detected
+Line 39: 2024-01-15 09:04:10 ERROR - Account verification email failed to send
+Line 43: 2024-01-15 09:08:20 ERROR - Audit report generation failed: Template not found
+
+Summary:
+Total Errors: 10
+Total Warnings: 11

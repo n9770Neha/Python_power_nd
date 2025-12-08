@@ -1,0 +1,48 @@
+2024-01-15 08:30:15 INFO - Application started successfully
+2024-01-15 08:30:20 INFO - Loading configuration from config.json
+2024-01-15 08:31:05 INFO - Database connection established
+2024-01-15 08:32:10 WARNING - High memory usage detected (85%)
+2024-01-15 08:33:45 INFO - User 'alice' logged in from IP 192.168.1.10
+2024-01-15 08:34:20 ERROR - Database query failed: Connection timeout
+2024-01-15 08:34:22 ERROR - Failed to fetch user data from database
+2024-01-15 08:35:10 INFO - Attempting to reconnect to database...
+2024-01-15 08:35:30 INFO - Database reconnection successful
+2024-01-15 08:36:15 WARNING - Unusual activity detected from IP 192.168.1.15
+2024-01-15 08:37:00 INFO - User 'bob' logged in from IP 192.168.1.12
+2024-01-15 08:38:45 ERROR - Payment processing failed: Insufficient funds
+2024-01-15 08:39:10 WARNING - Retrying payment processing (attempt 1/3)
+2024-01-15 08:39:30 INFO - Payment retry successful
+2024-01-15 08:40:20 INFO - User 'alice' uploaded file: report.pdf
+2024-01-15 08:41:05 INFO - File upload completed: 2.5 MB transferred
+2024-01-15 08:42:00 WARNING - Disk space running low (15% remaining)
+2024-01-15 08:43:30 ERROR - External API call failed: 503 Service Unavailable
+2024-01-15 08:44:10 WARNING - API response time slow: 4.2 seconds
+2024-01-15 08:45:00 INFO - Cache cleared successfully
+2024-01-15 08:46:20 INFO - Scheduled backup started
+2024-01-15 08:47:15 ERROR - Backup failed: Permission denied on /backup directory
+2024-01-15 08:48:00 WARNING - Security scan found 3 vulnerabilities
+2024-01-15 08:49:30 INFO - User 'charlie' logged out
+2024-01-15 08:50:10 INFO - Session cleanup completed
+2024-01-15 08:51:05 ERROR - Email notification service unavailable
+2024-01-15 08:52:20 WARNING - Queue processing delayed by 30 seconds
+2024-01-15 08:53:00 INFO - Queue processing resumed
+2024-01-15 08:54:45 INFO - Daily report generated successfully
+2024-01-15 08:55:30 ERROR - Report export failed: File system read-only
+2024-01-15 08:56:10 INFO - System check completed
+2024-01-15 08:57:00 WARNING - High CPU usage detected (92%)
+2024-01-15 08:58:20 INFO - Load balancer added new server instance
+2024-01-15 08:59:45 INFO - Database optimization started
+2024-01-15 09:00:30 ERROR - Optimization failed: Deadlock detected
+2024-01-15 09:01:15 WARNING - Retrying optimization with lower priority
+2024-01-15 09:02:00 INFO - Optimization completed successfully
+2024-01-15 09:03:20 INFO - User 'david' created new account
+2024-01-15 09:04:10 ERROR - Account verification email failed to send
+2024-01-15 09:05:00 INFO - Manual account verification performed by admin
+2024-01-15 09:06:30 WARNING - Unverified accounts: 5 accounts pending verification
+2024-01-15 09:07:45 INFO - Security audit completed
+2024-01-15 09:08:20 ERROR - Audit report generation failed: Template not found
+2024-01-15 09:09:10 INFO - Using default audit report template
+2024-01-15 09:10:00 INFO - Application shutdown initiated
+2024-01-15 09:10:30 WARNING - Active sessions detected during shutdown: 2 sessions
+2024-01-15 09:11:05 INFO - Graceful shutdown completed
+2024-01-15 09:11:30 INFO - Application stopped
